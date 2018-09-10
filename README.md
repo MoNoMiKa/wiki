@@ -1,0 +1,2 @@
+# wiki
+game wiki project;
